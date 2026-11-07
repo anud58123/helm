@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  anudeep:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-07T15:30:22.472631526Z"
+    description: A Helm chart for Kubernetes
+    digest: 9956cbec84710d87747dd7c17a0c63a78d4622fb2bc5eb8ac9943a65512c8130
+    name: anudeep
+    type: application
+    urls:
+    - anudeep-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-07T15:30:22.472127905Z"
